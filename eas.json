@@ -16,6 +16,9 @@
       },
       "android": {
         "image": "latest"
+      },
+      "env": {
+        "APP": "app1"
       }
     }
   },
